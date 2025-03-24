@@ -1,29 +1,29 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://106135605.vws.vegacdn.vn/1xhFaB1Wg7gI3NICAu3B3w/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:vtv1hd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106135605.vws.vegacdn.vn/ALnPjazcyyx8NnPWHlTLKg/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:vtv1hd/playlist.m3u8?user=MzEzOTU3NjM1
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://106135605.vws.vegacdn.vn/WlLUvNa71LTNCK0Iy2jVSg/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:vtv2hd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106135605.vws.vegacdn.vn/ZhnmKMp-FQk5U-pcVb5jDQ/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:vtv2hd/playlist.m3u8?user=MzEzOTU3NjM1
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://106135605.vws.vegacdn.vn/IAv7FgBftFUj81XqfQOvBA/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:vtv3hd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106135605.vws.vegacdn.vn/NS9kPduEJN9UgTrDOR15FQ/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:vtv3hd/playlist.m3u8?user=MzEzOTU3NjM1
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://106135605.vws.vegacdn.vn/amqgcaL-zLo8OWWPhGTH6A/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:vtv4hd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106135605.vws.vegacdn.vn/_n3Qn2wBMgyBQwIo_S4YKw/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:vtv4hd/playlist.m3u8?user=MzEzOTU3NjM1
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://106135605.vws.vegacdn.vn/NwIiaRf7N5hQSn6fg-ElPg/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:vtv5hd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106135605.vws.vegacdn.vn/KQ2YesjcbUTJCqL_Uk5Z9Q/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:vtv5hd/playlist.m3u8?user=MzEzOTU3NjM1
 #EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="",vtv5tnhd
-https://106135605.vws.vegacdn.vn/bb1NnzBpgFbRaF1fOI-MuQ/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:vtv5tnhd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106135605.vws.vegacdn.vn/nbcIpMHF0eVxIhJAsXKkmg/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:vtv5tnhd/playlist.m3u8?user=MzEzOTU3NjM1
 #EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="",vtv5tnbhd
-https://106135605.vws.vegacdn.vn/qnhhG5YT0krvqU6QRL-AMQ/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:vtv5tnbhd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106135605.vws.vegacdn.vn/6L6eH9JQmCu4cFTAYAxvkg/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:vtv5tnbhd/playlist.m3u8?user=MzEzOTU3NjM1
 #EXTINF:0 tvg-id="" group-title="VTV" tvg-logo="",vtvcanthohd
-https://106135605.vws.vegacdn.vn/xarnIFbskYt8obMf66_A_Q/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:vtvcanthohd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106135605.vws.vegacdn.vn/yAaT48FKRpnDH_RKii3Jbg/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:vtvcanthohd/playlist.m3u8?user=MzEzOTU3NjM1
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-https://106135605.vws.vegacdn.vn/dAEemJdSr3yH7gW2aVly6Q/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:vtv7hd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106135605.vws.vegacdn.vn/_s0B3SdnXfKpsT5QEa8-8Q/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:vtv7hd/playlist.m3u8?user=MzEzOTU3NjM1
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://106135605.vws.vegacdn.vn/_zkfcz6a8hKpiSxDmSi8Xg/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:vtv8hd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106135605.vws.vegacdn.vn/NUmAjRmDn-03VfloV6pD9w/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:vtv8hd/playlist.m3u8?user=MzEzOTU3NjM1
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://106135605.vws.vegacdn.vn/U_g81VND3YvkBu7_hhyw0A/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:vtv9hd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106135605.vws.vegacdn.vn/sJQZFPIqsLF2I8ao_XWxaA/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:vtv9hd/playlist.m3u8?user=MzEzOTU3NjM1
 #EXTINF:-1 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
-https://106135605.vws.vegacdn.vn/vXlvBwmh-ubvoCOKC-c0_w/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:antvhd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106135605.vws.vegacdn.vn/2LRgTDTalYD0f9uOZi05SA/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:antvhd/playlist.m3u8?user=MzEzOTU3NjM1
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
-https://106135605.vws.vegacdn.vn/YjcPvHtLlYFbRdHXj2WmvA/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:qpvnhd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106135605.vws.vegacdn.vn/hERiUN0Xmqa7QfKdwhdWEA/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:qpvnhd/playlist.m3u8?user=MzEzOTU3NjM1
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
-https://106a8e566.vws.vegacdn.vn/Zqs4ONa-s4k_rIO_Fk0kbA/1742885901/MzEzOTU3NjM1/cliptv_live/amlst:htvcphimhd/playlist.m3u8?user=MzEzOTU3NjM1
+https://106a8e566.vws.vegacdn.vn/ah82OLLAa1AazQrQduoB-Q/1742886443/MzEzOTU3NjM1/cliptv_live/amlst:htvcphimhd/playlist.m3u8?user=MzEzOTU3NjM1
